@@ -35,7 +35,7 @@ class HomeScreen extends StatelessWidget {
                   children: [
                     ImageCard("https://picsum.photos/id/66/300/200"),
                     ImageCard("https://picsum.photos/id/76/300/200"),
-                    ImageCard("https://picsum.photos/id/86/300/200"),
+                    ImageCard("https://picsum.photos/id/87/300/200"),
                   ],
                 ),
               ),
